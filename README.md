@@ -1,0 +1,3 @@
+# learningandstuff
+I am Jaq. I know some R and some data science, but I am looking to know more. What better way than diving right in? 
+Here I'll work on various projects and try not to pull my hair out. 
